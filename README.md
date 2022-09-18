@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any open-source project.
 - 📫 How to reach me : 
       - twitter : [@destroycompiler](https://twitter.com/destroycompiler)
-      - email : sanatanamahamrityunjaya@gmail.com
+      - email : dc.dhruvchouhan@gmail.com
 
 
 <!---
