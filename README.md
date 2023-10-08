@@ -5,7 +5,7 @@
 - 📫 How to reach me : 
       - twitter : [@destroycompiler](https://twitter.com/destroycompiler)
       - email : dc.dhruvchouhan@gmail.com
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ecxtacy)](https://github.com/ryo-ma/github-profile-trophy)
 [![ecxtacy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ecxtacy)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 destroycompiler/destroycompiler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
